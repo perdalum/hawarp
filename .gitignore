@@ -6,3 +6,5 @@
 *.ear
 /hawarp-core/target/
 nbactions.xml
+.idea
+*.iml
